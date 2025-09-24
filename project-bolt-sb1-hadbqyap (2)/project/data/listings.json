@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "slug": "luxury-toronto-condo-downtown",
+    "status": "for-sale",
+    "title": "Luxury Downtown Toronto Condo with City Views",
+    "priceCAD": 1250000,
+    "address": "88 Scott Street, Unit 3205",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6532, -79.3832],
+    "beds": 2,
+    "baths": 2,
+    "areaSqft": 1200,
+    "propertyType": "condo",
+    "yearBuilt": 2018,
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+      "https://images.pexels.com/photos/1571463/pexels-photo-1571463.jpeg"
+    ],
+    "features": ["Concierge", "Gym", "Rooftop Terrace", "In-unit Laundry", "Floor-to-ceiling Windows", "Stainless Steel Appliances"],
+    "description": "Stunning 2-bedroom, 2-bathroom condo in the heart of Toronto's Financial District. Features floor-to-ceiling windows with breathtaking city views, premium finishes throughout, and access to world-class building amenities. Steps from Union Station, PATH network, and Toronto's best dining and entertainment.",
+    "broker": {
+      "name": "Sarah Chen",
+      "company": "Toronto Premium Realty",
+      "phone": "(416) 555-0123",
+      "email": "sarah@torontopremium.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 12
+  },
+  {
+    "id": 2,
+    "slug": "vancouver-west-end-rental",
+    "status": "for-rent",
+    "title": "Modern West End Vancouver Apartment",
+    "priceCAD": 3200,
+    "address": "1188 Howe Street, Unit 2801",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2827, -123.1207],
+    "beds": 1,
+    "baths": 1,
+    "areaSqft": 650,
+    "propertyType": "condo",
+    "yearBuilt": 2020,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+    ],
+    "features": ["Ocean Views", "In-unit Laundry", "Gym", "Concierge", "Pet Friendly", "Transit Access"],
+    "description": "Beautiful 1-bedroom apartment in Vancouver's desirable West End. Modern finishes, stunning ocean and mountain views, steps from English Bay Beach and Stanley Park. Perfect for urban professionals seeking luxury living.",
+    "broker": {
+      "name": "Michael Wong",
+      "company": "Vancouver Coastal Properties",
+      "phone": "(604) 555-0456",
+      "email": "michael@coastalprops.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 5
+  },
+  {
+    "id": 3,
+    "slug": "montreal-plateau-heritage-home",
+    "status": "for-sale",
+    "title": "Heritage Plateau Montreal Townhouse",
+    "priceCAD": 875000,
+    "address": "4321 Rue Saint-Denis",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.5017, -73.5673],
+    "beds": 3,
+    "baths": 2,
+    "areaSqft": 1800,
+    "propertyType": "townhouse",
+    "yearBuilt": 1925,
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg"
+    ],
+    "features": ["Heritage Character", "Exposed Brick", "Hardwood Floors", "Private Garden", "Renovated Kitchen", "Metro Access"],
+    "description": "Charming heritage townhouse in Montreal's vibrant Plateau neighborhood. Beautifully renovated while preserving original character features including exposed brick and hardwood floors. Private garden, steps from Metro and local cafés.",
+    "broker": {
+      "name": "Marie Dubois",
+      "company": "Plateau Immobilier",
+      "phone": "(514) 555-0789",
+      "email": "marie@plateauimmo.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 18
+  },
+  {
+    "id": 4,
+    "slug": "calgary-beltline-office-space",
+    "status": "for-rent",
+    "title": "Modern Beltline Office Space",
+    "priceCAD": 4500,
+    "address": "625 11 Avenue SW, Suite 2200",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0447, -114.0719],
+    "beds": 0,
+    "baths": 2,
+    "areaSqft": 2000,
+    "propertyType": "office",
+    "yearBuilt": 2016,
+    "images": [
+      "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg",
+      "https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg"
+    ],
+    "features": ["Downtown Location", "Parking Included", "Reception Area", "Conference Rooms", "High-speed Internet", "Transit Access"],
+    "description": "Prime office space in Calgary's Beltline district. Modern finishes, excellent natural light, and flexible layout perfect for growing businesses. Includes parking and close to C-Train stations.",
+    "broker": {
+      "name": "Robert Johnson",
+      "company": "Calgary Commercial Realty",
+      "phone": "(403) 555-0321",
+      "email": "robert@calgarycommercial.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 8
+  },
+  {
+    "id": 5,
+    "slug": "ottawa-glebe-family-home",
+    "status": "for-sale",
+    "title": "Spacious Glebe Family Home",
+    "priceCAD": 1100000,
+    "address": "245 Third Avenue",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4215, -75.6972],
+    "beds": 4,
+    "baths": 3,
+    "areaSqft": 2400,
+    "propertyType": "detached",
+    "yearBuilt": 1960,
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "features": ["Large Backyard", "Renovated Kitchen", "Hardwood Floors", "Finished Basement", "Close to Schools", "Canal Access"],
+    "description": "Beautiful 4-bedroom family home in Ottawa's prestigious Glebe neighborhood. Recently renovated with modern amenities while maintaining original charm. Large backyard, steps from Rideau Canal and local amenities.",
+    "broker": {
+      "name": "Jennifer Smith",
+      "company": "Ottawa Family Homes",
+      "phone": "(613) 555-0654",
+      "email": "jennifer@ottawafamily.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 25
+  },
+  {
+    "id": 6,
+    "slug": "vancouver-kitsilano-beach-house",
+    "status": "for-sale",
+    "title": "Kitsilano Beach House with Ocean Views",
+    "priceCAD": 2850000,
+    "address": "2156 Waterloo Street",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2606, -123.1370],
+    "beds": 5,
+    "baths": 4,
+    "areaSqft": 3200,
+    "propertyType": "detached",
+    "yearBuilt": 1978,
+    "images": [
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg"
+    ],
+    "features": ["Ocean Views", "Private Beach Access", "Renovated", "Large Deck", "Garden", "Premium Location"],
+    "description": "Stunning 5-bedroom beach house in prime Kitsilano location. Panoramic ocean and mountain views, private beach access, and extensively renovated. Perfect for entertaining with large deck and mature garden.",
+    "broker": {
+      "name": "David Lee",
+      "company": "Vancouver Luxury Estates",
+      "phone": "(604) 555-0987",
+      "email": "david@vluxury.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 15
+  },
+  {
+    "id": 7,
+    "slug": "toronto-junction-loft-rental",
+    "status": "for-rent",
+    "title": "Industrial Loft in The Junction",
+    "priceCAD": 2800,
+    "address": "89 Dundas Street West, Unit 405",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6643, -79.4656],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1100,
+    "propertyType": "loft",
+    "yearBuilt": 2015,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["Exposed Brick", "High Ceilings", "Open Concept", "Industrial Design", "Rooftop Access", "Pet Friendly"],
+    "description": "Unique industrial loft in Toronto's trendy Junction neighborhood. Features exposed brick, soaring ceilings, and modern amenities. Perfect for creative professionals in a vibrant artistic community.",
+    "broker": {
+      "name": "Lisa Park",
+      "company": "Junction Living Co.",
+      "phone": "(416) 555-0147",
+      "email": "lisa@junctionliving.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 3
+  },
+  {
+    "id": 8,
+    "slug": "montreal-old-port-commercial",
+    "status": "for-rent",
+    "title": "Historic Old Port Retail Space",
+    "priceCAD": 6000,
+    "address": "125 Rue Saint-Paul Ouest",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.5017, -73.5573],
+    "beds": 0,
+    "baths": 1,
+    "areaSqft": 1500,
+    "propertyType": "retail",
+    "yearBuilt": 1890,
+    "images": [
+      "https://images.pexels.com/photos/380769/pexels-photo-380769.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
+    ],
+    "features": ["Historic Building", "High Foot Traffic", "Stone Walls", "Large Windows", "Tourist Area", "Metro Access"],
+    "description": "Prime retail space in Montreal's historic Old Port. Original stone walls, large street-facing windows, and excellent foot traffic from tourists and locals. Perfect for boutique, café, or gallery.",
+    "broker": {
+      "name": "Pierre Leblanc",
+      "company": "Vieux-Port Commercial",
+      "phone": "(514) 555-0258",
+      "email": "pierre@vieuxport.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 22
+  },
+  {
+    "id": 9,
+    "slug": "calgary-hillhurst-detached-home",
+    "status": "for-sale",
+    "title": "Modern Hillhurst Detached Home",
+    "priceCAD": 950000,
+    "address": "1824 7 Avenue NW",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0581, -114.0888],
+    "beds": 3,
+    "baths": 2,
+    "areaSqft": 1900,
+    "propertyType": "detached",
+    "yearBuilt": 2019,
+    "images": [
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["New Construction", "Energy Efficient", "Double Garage", "Open Concept", "Mountain Views", "Premium Finishes"],
+    "description": "Brand new 3-bedroom detached home in desirable Hillhurst neighborhood. Energy-efficient construction, open-concept design, and stunning mountain views. Double garage and premium finishes throughout.",
+    "broker": {
+      "name": "Amanda Taylor",
+      "company": "Calgary Modern Homes",
+      "phone": "(403) 555-0369",
+      "email": "amanda@calgarymodern.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 7
+  },
+  {
+    "id": 10,
+    "slug": "ottawa-byward-market-condo",
+    "status": "for-rent",
+    "title": "ByWard Market Urban Condo",
+    "priceCAD": 2200,
+    "address": "700 Sussex Drive, Unit 1205",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4297, -75.6918],
+    "beds": 1,
+    "baths": 1,
+    "areaSqft": 750,
+    "propertyType": "condo",
+    "yearBuilt": 2017,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "features": ["City Views", "Gym", "Concierge", "Balcony", "In-unit Laundry", "Walking Distance"],
+    "description": "Modern 1-bedroom condo in the heart of Ottawa's ByWard Market. City views, building amenities, and walking distance to Parliament Hill, restaurants, and nightlife. Perfect urban living.",
+    "broker": {
+      "name": "Tom Wilson",
+      "company": "Ottawa Urban Living",
+      "phone": "(613) 555-0741",
+      "email": "tom@ottawaurban.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 9
+  },
+  {
+    "id": 11,
+    "slug": "toronto-beaches-family-home",
+    "status": "for-sale",
+    "title": "The Beaches Waterfront Family Home",
+    "priceCAD": 1650000,
+    "address": "78 Scarborough Road",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6677, -79.2941],
+    "beds": 4,
+    "baths": 3,
+    "areaSqft": 2200,
+    "propertyType": "detached",
+    "yearBuilt": 1955,
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "features": ["Waterfront", "Private Garden", "Renovated", "Beach Access", "Large Deck", "Family Neighborhood"],
+    "description": "Charming 4-bedroom family home in Toronto's beloved Beaches neighborhood. Steps from Lake Ontario beaches, beautiful private garden, and extensively renovated while maintaining character.",
+    "broker": {
+      "name": "Rachel Green",
+      "company": "Beaches Realty Group",
+      "phone": "(416) 555-0852",
+      "email": "rachel@beachesrealty.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 14
+  },
+  {
+    "id": 12,
+    "slug": "vancouver-yaletown-luxury-penthouse",
+    "status": "for-sale",
+    "title": "Yaletown Luxury Penthouse",
+    "priceCAD": 4200000,
+    "address": "1288 Marinaside Crescent, PH01",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2747, -123.1219],
+    "beds": 3,
+    "baths": 3,
+    "areaSqft": 2800,
+    "propertyType": "penthouse",
+    "yearBuilt": 2021,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "features": ["Penthouse", "360° Views", "Private Elevator", "Rooftop Terrace", "Premium Finishes", "Concierge"],
+    "description": "Ultra-luxury penthouse in prestigious Yaletown. 360-degree city, ocean, and mountain views, private elevator access, rooftop terrace, and the finest finishes available. The pinnacle of Vancouver living.",
+    "broker": {
+      "name": "Alexander Kim",
+      "company": "Vancouver Elite Properties",
+      "phone": "(604) 555-0963",
+      "email": "alex@elitevan.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 31
+  },
+  {
+    "id": 13,
+    "slug": "montreal-griffintown-modern-condo",
+    "status": "for-rent",
+    "title": "Griffintown Modern Condo Rental",
+    "priceCAD": 2900,
+    "address": "1020 Rue William, Unit 807",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.4945, -73.5598],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 900,
+    "propertyType": "condo",
+    "yearBuilt": 2020,
+    "images": [
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+    ],
+    "features": ["Modern Design", "Gym", "Rooftop Pool", "Balcony", "In-unit Laundry", "Metro Access"],
+    "description": "Contemporary 2-bedroom condo in Montreal's dynamic Griffintown district. Modern amenities including rooftop pool, steps from downtown and Old Port. Perfect for urban professionals.",
+    "broker": {
+      "name": "Sophie Martin",
+      "company": "Griffintown Living",
+      "phone": "(514) 555-0147",
+      "email": "sophie@griffintownliving.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 6
+  },
+  {
+    "id": 14,
+    "slug": "calgary-kensington-townhouse",
+    "status": "for-sale",
+    "title": "Kensington Heritage Townhouse",
+    "priceCAD": 825000,
+    "address": "1147 Kensington Road NW",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0539, -114.0856],
+    "beds": 3,
+    "baths": 2,
+    "areaSqft": 1600,
+    "propertyType": "townhouse",
+    "yearBuilt": 1912,
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "features": ["Heritage Character", "Bow River Views", "Renovated", "Hardwood Floors", "Boutique Shopping", "River Pathways"],
+    "description": "Charming heritage townhouse in Calgary's trendy Kensington neighborhood. Beautifully renovated with Bow River views, steps from boutique shopping, restaurants, and river pathways.",
+    "broker": {
+      "name": "Mark Johnson",
+      "company": "Heritage Calgary Realty",
+      "phone": "(403) 555-0258",
+      "email": "mark@heritagecalgary.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 19
+  },
+  {
+    "id": 15,
+    "slug": "ottawa-westboro-modern-condo",
+    "status": "for-rent",
+    "title": "Westboro Village Modern Condo",
+    "priceCAD": 2600,
+    "address": "285 McLeod Street, Unit 1204",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.3995, -75.7591],
+    "beds": 2,
+    "baths": 2,
+    "areaSqft": 1000,
+    "propertyType": "condo",
+    "yearBuilt": 2018,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["River Views", "Gym", "Concierge", "Balcony", "Transit Access", "Village Location"],
+    "description": "Modern 2-bedroom condo in popular Westboro Village. River views, excellent building amenities, and walking distance to shops, restaurants, and transit. Perfect for professional couples.",
+    "broker": {
+      "name": "Catherine Brown",
+      "company": "Westboro Properties",
+      "phone": "(613) 555-0369",
+      "email": "catherine@westboroprops.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 4
+  },
+  {
+    "id": 16,
+    "slug": "toronto-yorkville-luxury-condo",
+    "status": "for-sale",
+    "title": "Yorkville Luxury Condominium",
+    "priceCAD": 2100000,
+    "address": "155 Cumberland Street, Unit 3801",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6708, -79.3899],
+    "beds": 2,
+    "baths": 2,
+    "areaSqft": 1400,
+    "propertyType": "condo",
+    "yearBuilt": 2019,
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+    ],
+    "features": ["Luxury Finishes", "Concierge", "Valet Parking", "Wine Cellar", "Spa", "Premium Location"],
+    "description": "Exquisite 2-bedroom luxury condo in Toronto's prestigious Yorkville. Premium finishes, full-service building amenities including spa and wine cellar, steps from high-end shopping and dining.",
+    "broker": {
+      "name": "James Mitchell",
+      "company": "Yorkville Luxury Properties",
+      "phone": "(416) 555-0741",
+      "email": "james@yorkvillelux.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 21
+  },
+  {
+    "id": 17,
+    "slug": "vancouver-commercial-drive-triplex",
+    "status": "for-sale",
+    "title": "Commercial Drive Investment Triplex",
+    "priceCAD": 1950000,
+    "address": "2234 Commercial Drive",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2639, -123.0695],
+    "beds": 6,
+    "baths": 3,
+    "areaSqft": 2800,
+    "propertyType": "multi-family",
+    "yearBuilt": 1940,
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
+    ],
+    "features": ["Investment Property", "3 Units", "Separate Entrances", "Rental Income", "Transit Access", "Vibrant Neighborhood"],
+    "description": "Excellent investment opportunity on Vancouver's vibrant Commercial Drive. Three separate units, strong rental history, and located in one of the city's most desirable neighborhoods with excellent transit connections.",
+    "broker": {
+      "name": "Linda Chen",
+      "company": "Vancouver Investment Properties",
+      "phone": "(604) 555-0852",
+      "email": "linda@vaninvestment.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 16
+  },
+  {
+    "id": 18,
+    "slug": "montreal-mile-end-studio-rental",
+    "status": "for-rent",
+    "title": "Mile End Artist Studio Rental",
+    "priceCAD": 1800,
+    "address": "89 Avenue Laurier Ouest, Unit 302",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.5240, -73.5985],
+    "beds": 0,
+    "baths": 1,
+    "areaSqft": 550,
+    "propertyType": "studio",
+    "yearBuilt": 1965,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "features": ["High Ceilings", "Exposed Brick", "Large Windows", "Creative Space", "Artistic Neighborhood", "Metro Access"],
+    "description": "Unique artist studio in Montreal's creative Mile End district. High ceilings, excellent natural light, and authentic loft character. Perfect for artists, designers, or creative professionals.",
+    "broker": {
+      "name": "Antoine Rousseau",
+      "company": "Mile End Creative Spaces",
+      "phone": "(514) 555-0963",
+      "email": "antoine@mileendcreative.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 11
+  },
+  {
+    "id": 19,
+    "slug": "calgary-mission-warehouse-loft",
+    "status": "for-rent",
+    "title": "Mission District Warehouse Loft",
+    "priceCAD": 3200,
+    "address": "420 23 Avenue SW, Unit 501",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0366, -114.0719],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1300,
+    "propertyType": "loft",
+    "yearBuilt": 2017,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["Industrial Design", "Exposed Concrete", "High Ceilings", "River Access", "Downtown Views", "Pet Friendly"],
+    "description": "Stunning warehouse-style loft in Calgary's Mission district. Industrial design elements, soaring ceilings, and downtown skyline views. Steps from Bow River pathways and Kensington nightlife.",
+    "broker": {
+      "name": "Jessica Wong",
+      "company": "Calgary Loft Living",
+      "phone": "(403) 555-0147",
+      "email": "jessica@calgaryloft.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 13
+  },
+  {
+    "id": 20,
+    "slug": "ottawa-sandy-hill-heritage-conversion",
+    "status": "for-sale",
+    "title": "Sandy Hill Heritage Conversion",
+    "priceCAD": 775000,
+    "address": "234 Rideau Street, Unit 3",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4247, -75.6862],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1100,
+    "propertyType": "condo",
+    "yearBuilt": 1890,
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "features": ["Heritage Building", "High Ceilings", "Original Details", "University Area", "Transit Access", "Character Features"],
+    "description": "Beautiful heritage conversion in Ottawa's Sandy Hill neighborhood. Original architectural details, high ceilings, and modern updates. Close to University of Ottawa, Rideau Centre, and transit.",
+    "broker": {
+      "name": "Paul Anderson",
+      "company": "Ottawa Heritage Properties",
+      "phone": "(613) 555-0258",
+      "email": "paul@ottawaheritage.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 27
+  },
+  {
+    "id": 21,
+    "slug": "toronto-liberty-village-new-condo",
+    "status": "for-sale",
+    "title": "Liberty Village New Construction Condo",
+    "priceCAD": 890000,
+    "address": "15 Hanna Avenue, Unit 1206",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6387, -79.4200],
+    "beds": 1,
+    "baths": 1,
+    "areaSqft": 700,
+    "propertyType": "condo",
+    "yearBuilt": 2023,
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg"
+    ],
+    "features": ["Brand New", "Smart Home Technology", "Rooftop Terrace", "Gym", "Concierge", "Transit Access"],
+    "description": "Brand new 1-bedroom condo in Toronto's trendy Liberty Village. Smart home features, building amenities including rooftop terrace, and excellent transit connections to downtown and airport.",
+    "broker": {
+      "name": "Kevin Park",
+      "company": "Liberty Village Condos",
+      "phone": "(416) 555-0369",
+      "email": "kevin@libertyvillagecondos.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 2
+  },
+  {
+    "id": 22,
+    "slug": "vancouver-mount-pleasant-brewery-loft",
+    "status": "for-rent",
+    "title": "Mount Pleasant Brewery District Loft",
+    "priceCAD": 3400,
+    "address": "445 Industrial Avenue, Unit 301",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2619, -123.1003],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1200,
+    "propertyType": "loft",
+    "yearBuilt": 2018,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["Brewery District", "Exposed Brick", "High Ceilings", "Industrial Kitchen", "Pet Friendly", "Craft Breweries"],
+    "description": "Unique loft in Vancouver's emerging Mount Pleasant Brewery District. Exposed brick, industrial finishes, and surrounded by craft breweries, restaurants, and creative spaces. Perfect for urban adventurers.",
+    "broker": {
+      "name": "Sarah Kim",
+      "company": "Mount Pleasant Properties",
+      "phone": "(604) 555-0741",
+      "email": "sarah@mtpleasantprops.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 8
+  },
+  {
+    "id": 23,
+    "slug": "montreal-westmount-luxury-home",
+    "status": "for-sale",
+    "title": "Westmount Luxury Family Estate",
+    "priceCAD": 3200000,
+    "address": "678 Clarke Avenue",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.4848, -73.6013],
+    "beds": 5,
+    "baths": 4,
+    "areaSqft": 4200,
+    "propertyType": "detached",
+    "yearBuilt": 1925,
+    "images": [
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
+    ],
+    "features": ["Luxury Estate", "Private Garden", "Heritage Architecture", "Premium Location", "Renovated", "Mountain Views"],
+    "description": "Magnificent 5-bedroom estate in prestigious Westmount. Beautifully renovated heritage architecture, private mature gardens, and stunning mountain views. One of Montreal's most desirable addresses.",
+    "broker": {
+      "name": "Charles Dubois",
+      "company": "Westmount Luxury Estates",
+      "phone": "(514) 555-0852",
+      "email": "charles@westmountlux.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 35
+  },
+  {
+    "id": 24,
+    "slug": "calgary-bridgeland-riverside-condo",
+    "status": "for-rent",
+    "title": "Bridgeland Riverside Condo",
+    "priceCAD": 2400,
+    "address": "889 Memorial Drive NE, Unit 705",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0581, -114.0556],
+    "beds": 2,
+    "baths": 2,
+    "areaSqft": 950,
+    "propertyType": "condo",
+    "yearBuilt": 2016,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.photo-1643384.jpeg"
+    ],
+    "features": ["River Views", "Balcony", "In-suite Laundry", "Gym", "River Pathways", "Downtown Access"],
+    "description": "Modern 2-bedroom condo in Calgary's Bridgeland with stunning Bow River views. Access to extensive pathway system, close to downtown, and excellent building amenities. Perfect for active professionals.",
+    "broker": {
+      "name": "Michelle Taylor",
+      "company": "Calgary Riverside Living",
+      "phone": "(403) 555-0963",
+      "email": "michelle@riversideliving.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 17
+  },
+  {
+    "id": 25,
+    "slug": "ottawa-hintonburg-converted-church",
+    "status": "for-sale",
+    "title": "Hintonburg Converted Church Loft",
+    "priceCAD": 675000,
+    "address": "1156 Wellington Street West, Unit 4",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4095, -75.7264],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1300,
+    "propertyType": "loft",
+    "yearBuilt": 1910,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
+    ],
+    "features": ["Unique Architecture", "Soaring Ceilings", "Stained Glass", "Historic Conversion", "Trendy Neighborhood", "Transit Access"],
+    "description": "Extraordinary loft in converted church in trendy Hintonburg. Soaring ceilings, original stained glass windows, and unique architectural details. Steps from Wellington West's restaurants and boutiques.",
+    "broker": {
+      "name": "Rebecca Johnson",
+      "company": "Ottawa Unique Properties",
+      "phone": "(613) 555-0147",
+      "email": "rebecca@ottawaunique.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 24
+  },
+  {
+    "id": 26,
+    "slug": "toronto-corktown-historic-loft",
+    "status": "for-rent",
+    "title": "Corktown Historic Loft Rental",
+    "priceCAD": 3100,
+    "address": "78 Trinity Street, Unit 201",
+    "city": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6503, -79.3620],
+    "beds": 2,
+    "baths": 1,
+    "areaSqft": 1100,
+    "propertyType": "loft",
+    "yearBuilt": 1888,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["Historic Building", "Exposed Brick", "Original Beams", "Downtown Location", "Character Features", "Distillery District"],
+    "description": "Stunning historic loft in Toronto's Corktown neighborhood. Original exposed brick and wooden beams, steps from Distillery District and St. Lawrence Market. Perfect blend of history and modern convenience.",
+    "broker": {
+      "name": "Daniel Wong",
+      "company": "Toronto Historic Properties",
+      "phone": "(416) 555-0258",
+      "email": "daniel@torontohistoric.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 7
+  },
+  {
+    "id": 27,
+    "slug": "vancouver-false-creek-waterfront-condo",
+    "status": "for-sale",
+    "title": "False Creek Waterfront Condo",
+    "priceCAD": 1850000,
+    "address": "1618 Quebec Street, Unit 1801",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2639, -123.1234],
+    "beds": 2,
+    "baths": 2,
+    "areaSqft": 1150,
+    "propertyType": "condo",
+    "yearBuilt": 2020,
+    "images": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "features": ["Water Views", "Waterfront Location", "Balcony", "Gym", "Concierge", "Seawall Access"],
+    "description": "Spectacular waterfront condo on False Creek with panoramic water and city views. Direct seawall access, premium building amenities, and steps from Olympic Village. Vancouver waterfront living at its finest.",
+    "broker": {
+      "name": "Emma Wilson",
+      "company": "Vancouver Waterfront Properties",
+      "phone": "(604) 555-0369",
+      "email": "emma@vanwaterfront.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 20
+  },
+  {
+    "id": 28,
+    "slug": "montreal-hochelaga-artist-loft",
+    "status": "for-rent",
+    "title": "Hochelaga Artist Loft Space",
+    "priceCAD": 2100,
+    "address": "3456 Rue Ontario Est, Unit 301",
+    "city": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.5345, -73.5426],
+    "beds": 1,
+    "baths": 1,
+    "areaSqft": 1000,
+    "propertyType": "loft",
+    "yearBuilt": 1950,
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "features": ["Artist Space", "High Ceilings", "Large Windows", "Creative Community", "Affordable", "Transit Access"],
+    "description": "Spacious artist loft in Montreal's emerging Hochelaga neighborhood. High ceilings, excellent natural light, and part of a vibrant creative community. Perfect for artists, musicians, and creatives.",
+    "broker": {
+      "name": "Julien Tremblay",
+      "company": "Montreal Artist Spaces",
+      "phone": "(514) 555-0741",
+      "email": "julien@artistspaces.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 15
+  },
+  {
+    "id": 29,
+    "slug": "calgary-eau-claire-penthouse",
+    "status": "for-sale",
+    "title": "Eau Claire Riverfront Penthouse",
+    "priceCAD": 2100000,
+    "address": "500 Eau Claire Avenue SW, PH02",
+    "city": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0534, -114.0719],
+    "beds": 3,
+    "baths": 3,
+    "areaSqft": 2200,
+    "propertyType": "penthouse",
+    "yearBuilt": 2019,
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "features": ["Penthouse", "River Views", "Private Terrace", "Premium Finishes", "Concierge", "Downtown Location"],
+    "description": "Luxurious penthouse in Calgary's Eau Claire district. Panoramic Bow River and mountain views, private terrace, and steps from Prince's Island Park. The ultimate in downtown Calgary luxury living.",
+    "broker": {
+      "name": "Victoria Chen",
+      "company": "Calgary Penthouse Collection",
+      "phone": "(403) 555-0852",
+      "email": "victoria@calgarypenthouse.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 29
+  },
+  {
+    "id": 30,
+    "slug": "ottawa-new-edinburgh-heritage-home",
+    "status": "for-sale",
+    "title": "New Edinburgh Heritage Estate",
+    "priceCAD": 1950000,
+    "address": "245 Stanley Avenue",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4378, -75.6754],
+    "beds": 5,
+    "baths": 4,
+    "areaSqft": 3800,
+    "propertyType": "detached",
+    "yearBuilt": 1908,
+    "images": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg"
+    ],
+    "features": ["Heritage Estate", "Private Grounds", "Original Features", "Premium Location", "Renovated", "River Access"],
+    "description": "Magnificent heritage estate in prestigious New Edinburgh. Meticulously restored with original architectural features, private mature grounds, and walking distance to Rideau River. One of Ottawa's finest addresses.",
+    "broker": {
+      "name": "Christopher Davis",
+      "company": "Ottawa Premier Estates",
+      "phone": "(613) 555-0963",
+      "email": "chris@ottawapremier.ca"
+    },
+    "verified": true,
+    "daysOnMarket": 42
+  }
+]

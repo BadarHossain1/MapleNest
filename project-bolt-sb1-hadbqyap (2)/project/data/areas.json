@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "slug": "toronto-yorkville",
+    "title": "Yorkville",
+    "city": "Toronto",
+    "province": "Ontario",
+    "heroImage": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+    "description": "Toronto's most prestigious neighborhood, Yorkville offers luxury shopping, fine dining, and sophisticated urban living in the heart of the city.",
+    "coordinates": [43.6708, -79.3899],
+    "averagePrices": {
+      "condo": 1200000,
+      "detached": 3500000,
+      "rental": 3800
+    },
+    "propertyTypes": ["Luxury Condos", "Historic Homes", "Penthouses"],
+    "lifestyle": [
+      "Designer boutiques and luxury shopping",
+      "World-class restaurants and cafés",
+      "Art galleries and cultural venues",
+      "Central to Toronto's business district",
+      "Walkable urban lifestyle"
+    ],
+    "schools": ["University of Toronto", "Toronto Metropolitan University", "Private Schools"],
+    "transit": ["TTC Subway (Bay & Bloor)", "Extensive Bus Routes", "Walk to Union Station"],
+    "photos": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg"
+    ],
+    "demographics": {
+      "population": 8500,
+      "medianAge": 42,
+      "averageIncome": 125000
+    },
+    "amenities": {
+      "parks": ["Rosedale Valley", "Queen's Park"],
+      "shopping": ["Yorkville Village", "Holt Renfrew", "Designer Boutiques"],
+      "dining": ["Fine Dining Restaurants", "Trendy Cafés", "International Cuisine"]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "vancouver-yaletown",
+    "title": "Yaletown",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "heroImage": "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+    "description": "Vancouver's trendiest neighborhood, Yaletown combines historic warehouse architecture with modern luxury living, waterfront views, and vibrant nightlife.",
+    "coordinates": [49.2747, -123.1219],
+    "averagePrices": {
+      "condo": 950000,
+      "detached": 2800000,
+      "rental": 3200
+    },
+    "propertyTypes": ["Modern Condos", "Converted Lofts", "Luxury High-rises"],
+    "lifestyle": [
+      "Converted heritage warehouses",
+      "Trendy restaurants and bars",
+      "Seawall and waterfront access",
+      "High-end shopping and galleries",
+      "Active nightlife scene"
+    ],
+    "schools": ["Vancouver Community College", "International Village Elementary"],
+    "transit": ["SkyTrain (Yaletown-Roundhouse)", "Bus Routes", "Seabus Access"],
+    "photos": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg"
+    ],
+    "demographics": {
+      "population": 12000,
+      "medianAge": 38,
+      "averageIncome": 95000
+    },
+    "amenities": {
+      "parks": ["David Lam Park", "Emery Barnes Park"],
+      "shopping": ["Yaletown Shopping", "Designer Stores"],
+      "dining": ["International Restaurants", "Craft Breweries", "Rooftop Bars"]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "montreal-plateau-mont-royal",
+    "title": "Plateau Mont-Royal",
+    "city": "Montreal",
+    "province": "Quebec",
+    "description": "Montreal's bohemian heart, the Plateau offers colorful row houses, vibrant street art, eclectic dining, and a thriving arts scene.",
+    "heroImage": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+    "coordinates": [45.5240, -73.5985],
+    "averagePrices": {
+      "condo": 450000,
+      "detached": 850000,
+      "rental": 2100
+    },
+    "propertyTypes": ["Heritage Duplexes", "Modern Condos", "Artist Lofts"],
+    "lifestyle": [
+      "Colorful Victorian architecture",
+      "Vibrant arts and music scene",
+      "Eclectic restaurants and cafés",
+      "Street festivals and markets",
+      "Bike-friendly neighborhood"
+    ],
+    "schools": ["Université du Québec à Montréal", "Various French Schools"],
+    "transit": ["Metro Stations", "Bixi Bike Share", "Bus Network"],
+    "photos": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg"
+    ],
+    "demographics": {
+      "population": 110000,
+      "medianAge": 35,
+      "averageIncome": 55000
+    },
+    "amenities": {
+      "parks": ["Mount Royal Park", "Jeanne-Mance Park"],
+      "shopping": ["Saint-Laurent Boulevard", "Local Boutiques"],
+      "dining": ["French Bistros", "International Cuisine", "Craft Coffee"]
+    }
+  },
+  {
+    "id": 4,
+    "slug": "calgary-kensington",
+    "title": "Kensington",
+    "city": "Calgary",
+    "province": "Alberta",
+    "heroImage": "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+    "description": "Calgary's hip riverside neighborhood offering trendy shops, craft breweries, and beautiful Bow River pathways with stunning mountain views.",
+    "coordinates": [51.0539, -114.0856],
+    "averagePrices": {
+      "condo": 380000,
+      "detached": 750000,
+      "rental": 2200
+    },
+    "propertyTypes": ["Character Homes", "Modern Condos", "Riverside Properties"],
+    "lifestyle": [
+      "Bow River pathway system",
+      "Local craft breweries",
+      "Boutique shopping district",
+      "Mountain and river views",
+      "Close to downtown Calgary"
+    ],
+    "schools": ["Hillhurst Elementary", "Crescent Heights High School"],
+    "transit": ["C-Train Access", "Bus Routes", "Bike Paths"],
+    "photos": [
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "demographics": {
+      "population": 5500,
+      "medianAge": 40,
+      "averageIncome": 78000
+    },
+    "amenities": {
+      "parks": ["Prince's Island Park", "Bow River Pathway"],
+      "shopping": ["Kensington Road Shopping", "Local Boutiques"],
+      "dining": ["Craft Breweries", "Trendy Restaurants", "Coffee Shops"]
+    }
+  },
+  {
+    "id": 5,
+    "slug": "ottawa-byward-market",
+    "title": "ByWard Market",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "heroImage": "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+    "description": "Ottawa's historic market district, featuring cobblestone streets, heritage buildings, vibrant nightlife, and proximity to Parliament Hill.",
+    "coordinates": [45.4297, -75.6918],
+    "averagePrices": {
+      "condo": 520000,
+      "detached": 950000,
+      "rental": 2400
+    },
+    "propertyTypes": ["Heritage Conversions", "Modern Condos", "Historic Homes"],
+    "lifestyle": [
+      "Historic cobblestone streets",
+      "Vibrant farmers market",
+      "Active nightlife scene",
+      "Walking distance to Parliament",
+      "Cultural festivals and events"
+    ],
+    "schools": ["University of Ottawa", "Various Elementary Schools"],
+    "transit": ["OC Transpo Hub", "Light Rail Transit", "Walking Distance"],
+    "photos": [
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg",
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg"
+    ],
+    "demographics": {
+      "population": 9200,
+      "medianAge": 36,
+      "averageIncome": 72000
+    },
+    "amenities": {
+      "parks": ["Major's Hill Park", "Confederation Park"],
+      "shopping": ["ByWard Market", "Local Artisan Shops"],
+      "dining": ["Fine Dining", "Pubs & Bars", "International Cuisine"]
+    }
+  },
+  {
+    "id": 6,
+    "slug": "toronto-the-beaches",
+    "title": "The Beaches",
+    "city": "Toronto",
+    "province": "Ontario",
+    "heroImage": "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+    "description": "Toronto's lakefront paradise offering sandy beaches, boardwalks, charming village atmosphere, and beautiful Victorian homes.",
+    "coordinates": [43.6677, -79.2941],
+    "averagePrices": {
+      "condo": 850000,
+      "detached": 1600000,
+      "rental": 3100
+    },
+    "propertyTypes": ["Victorian Homes", "Beachfront Condos", "Family Houses"],
+    "lifestyle": [
+      "Sandy Lake Ontario beaches",
+      "Historic boardwalk",
+      "Village-like main street",
+      "Family-friendly community",
+      "Beach volleyball and water sports"
+    ],
+    "schools": ["Beaches Alternative School", "Glen Ames Senior Public School"],
+    "transit": ["TTC Streetcar", "Bus Routes", "GO Train Access"],
+    "photos": [
+      "https://images.pexels.com/photos/1643384/pexels-photo-1643384.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg"
+    ],
+    "demographics": {
+      "population": 21000,
+      "medianAge": 44,
+      "averageIncome": 95000
+    },
+    "amenities": {
+      "parks": ["Woodbine Beach", "Ashbridge's Bay Park"],
+      "shopping": ["Queen Street East", "Beach Boutiques"],
+      "dining": ["Beachfront Patios", "Family Restaurants", "Ice Cream Shops"]
+    }
+  },
+  {
+    "id": 7,
+    "slug": "vancouver-kitsilano",
+    "title": "Kitsilano",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "heroImage": "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+    "description": "Vancouver's beach culture hub, Kitsilano offers stunning ocean views, sandy beaches, health-conscious lifestyle, and proximity to downtown.",
+    "coordinates": [49.2606, -123.1370],
+    "averagePrices": {
+      "condo": 750000,
+      "detached": 2200000,
+      "rental": 2800
+    },
+    "propertyTypes": ["Beach Houses", "Modern Condos", "Character Homes"],
+    "lifestyle": [
+      "Kitsilano Beach access",
+      "Health and wellness focus",
+      "Yoga studios and fitness",
+      "Organic markets and cafés",
+      "Mountain and ocean views"
+    ],
+    "schools": ["Lord Byng Secondary", "Kitsilano Secondary"],
+    "transit": ["Bus Routes", "Broadway SkyTrain", "Bike Lanes"],
+    "photos": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg"
+    ],
+    "demographics": {
+      "population": 41000,
+      "medianAge": 41,
+      "averageIncome": 88000
+    },
+    "amenities": {
+      "parks": ["Kitsilano Beach", "Vanier Park"],
+      "shopping": ["West 4th Avenue", "Broadway Shopping"],
+      "dining": ["Health Food Cafés", "Beachfront Restaurants", "Craft Breweries"]
+    }
+  },
+  {
+    "id": 8,
+    "slug": "montreal-old-montreal",
+    "title": "Old Montreal",
+    "city": "Montreal",
+    "province": "Quebec",
+    "heroImage": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+    "description": "Montreal's historic heart featuring cobblestone streets, 17th-century architecture, world-class dining, and stunning waterfront views.",
+    "coordinates": [45.5017, -73.5573],
+    "averagePrices": {
+      "condo": 650000,
+      "detached": 1200000,
+      "rental": 2800
+    },
+    "propertyTypes": ["Heritage Lofts", "Historic Conversions", "Luxury Condos"],
+    "lifestyle": [
+      "Cobblestone streets and squares",
+      "17th-century architecture",
+      "Fine dining and wine bars",
+      "Art galleries and museums",
+      "St. Lawrence River views"
+    ],
+    "schools": ["Various Private Schools", "Nearby Universities"],
+    "transit": ["Metro Stations", "Bus Network", "Walking Distance"],
+    "photos": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg"
+    ],
+    "demographics": {
+      "population": 4500,
+      "medianAge": 39,
+      "averageIncome": 82000
+    },
+    "amenities": {
+      "parks": ["Place Jacques-Cartier", "Pointe-à-Callière"],
+      "shopping": ["Rue Saint-Paul", "Artisan Boutiques"],
+      "dining": ["Fine French Restaurants", "Wine Bars", "Historic Taverns"]
+    }
+  },
+  {
+    "id": 9,
+    "slug": "calgary-mission",
+    "title": "Mission",
+    "city": "Calgary",
+    "province": "Alberta",
+    "heroImage": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+    "description": "Calgary's trendy inner-city neighborhood featuring modern condos, trendy restaurants, river access, and vibrant nightlife scene.",
+    "coordinates": [51.0366, -114.0719],
+    "averagePrices": {
+      "condo": 420000,
+      "detached": 850000,
+      "rental": 2300
+    },
+    "propertyTypes": ["Modern Condos", "Converted Lofts", "Character Homes"],
+    "lifestyle": [
+      "Trendy restaurant scene",
+      "Active nightlife",
+      "Bow River pathway access",
+      "Young professional community",
+      "Close to downtown Calgary"
+    ],
+    "schools": ["Western Canada High School", "Various Elementary Schools"],
+    "transit": ["C-Train Nearby", "Bus Routes", "Bike Paths"],
+    "photos": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "demographics": {
+      "population": 3800,
+      "medianAge": 32,
+      "averageIncome": 75000
+    },
+    "amenities": {
+      "parks": ["Bow River Pathway", "Mission Bridge"],
+      "shopping": ["4th Street SW", "Local Boutiques"],
+      "dining": ["Trendy Restaurants", "Craft Cocktail Bars", "Coffee Roasters"]
+    }
+  },
+  {
+    "id": 10,
+    "slug": "ottawa-westboro",
+    "title": "Westboro",
+    "city": "Ottawa",
+    "province": "Ontario",
+    "heroImage": "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+    "description": "Ottawa's vibrant village within the city, offering boutique shopping, excellent restaurants, Ottawa River access, and a strong sense of community.",
+    "coordinates": [45.3995, -75.7591],
+    "averagePrices": {
+      "condo": 480000,
+      "detached": 890000,
+      "rental": 2500
+    },
+    "propertyTypes": ["Village Homes", "Modern Condos", "Riverside Properties"],
+    "lifestyle": [
+      "Village-like main street",
+      "Boutique shopping and dining",
+      "Ottawa River pathway",
+      "Community farmers market",
+      "Family-friendly atmosphere"
+    ],
+    "schools": ["Churchill Alternative School", "Westboro Academy"],
+    "transit": ["OC Transpo Routes", "LRT Access", "Bike Paths"],
+    "photos": [
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg",
+      "https://images.pexels.com/photos/209315/pexels-photo-209315.jpeg"
+    ],
+    "demographics": {
+      "population": 8900,
+      "medianAge": 43,
+      "averageIncome": 92000
+    },
+    "amenities": {
+      "parks": ["Westboro Beach", "Ottawa River Pathway"],
+      "shopping": ["Richmond Road", "Independent Boutiques"],
+      "dining": ["Farm-to-Table Restaurants", "Artisan Bakeries", "Wine Bars"]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Toronto",
+    "province": "Ontario",
+    "coordinates": [43.6532, -79.3832],
+    "population": 2930000,
+    "averagePrice": 1200000,
+    "neighborhoods": ["Yorkville", "The Junction", "The Beaches", "Liberty Village", "Corktown"],
+    "description": "Canada's largest city and financial capital"
+  },
+  {
+    "name": "Vancouver",
+    "province": "British Columbia",
+    "coordinates": [49.2827, -123.1207],
+    "population": 675000,
+    "averagePrice": 1350000,
+    "neighborhoods": ["Yaletown", "Kitsilano", "Mount Pleasant", "West End", "Commercial Drive"],
+    "description": "Pacific coast metropolis known for natural beauty"
+  },
+  {
+    "name": "Montreal",
+    "province": "Quebec",
+    "coordinates": [45.5017, -73.5673],
+    "population": 1780000,
+    "averagePrice": 550000,
+    "neighborhoods": ["Plateau Mont-Royal", "Old Montreal", "Griffintown", "Mile End", "Westmount"],
+    "description": "Cultural capital with European charm"
+  },
+  {
+    "name": "Calgary",
+    "province": "Alberta",
+    "coordinates": [51.0447, -114.0719],
+    "population": 1340000,
+    "averagePrice": 520000,
+    "neighborhoods": ["Kensington", "Mission", "Bridgeland", "Hillhurst", "Eau Claire"],
+    "description": "Energy capital with mountain proximity"
+  },
+  {
+    "name": "Ottawa",
+    "province": "Ontario",
+    "coordinates": [45.4215, -75.6972],
+    "population": 1017000,
+    "averagePrice": 650000,
+    "neighborhoods": ["ByWard Market", "Westboro", "The Glebe", "Sandy Hill", "Hintonburg"],
+    "description": "National capital with rich history"
+  }
+]

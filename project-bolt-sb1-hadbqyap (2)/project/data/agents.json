@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "slug": "sarah-chen-toronto",
+    "name": "Sarah Chen",
+    "headshot": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg",
+    "email": "sarah@torontopremium.ca",
+    "phone": "(416) 555-0123",
+    "languages": ["English", "Mandarin", "Cantonese"],
+    "brokerage": "Toronto Premium Realty",
+    "serviceAreas": ["Toronto", "North York", "Mississauga"],
+    "specialties": ["Luxury Condos", "Downtown Properties", "Investment Properties"],
+    "experience": 12,
+    "bio": "Sarah Chen is a dedicated real estate professional with over 12 years of experience in Toronto's dynamic market. Specializing in luxury condominiums and downtown properties, she has helped hundreds of clients navigate Toronto's competitive real estate landscape. Sarah's multilingual abilities and deep market knowledge make her an invaluable resource for both local and international clients.",
+    "badges": ["Top Producer 2023", "Luxury Specialist", "Multi-Million Dollar Club"],
+    "associatedListings": [1, 7, 11, 16, 21, 26],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/sarahchen-realestate",
+      "instagram": "@sarahchen_toronto"
+    },
+    "reviews": {
+      "average": 4.9,
+      "count": 127
+    }
+  },
+  {
+    "id": 2,
+    "slug": "michael-wong-vancouver",
+    "name": "Michael Wong",
+    "headshot": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg",
+    "email": "michael@coastalprops.ca",
+    "phone": "(604) 555-0456",
+    "languages": ["English", "Mandarin"],
+    "brokerage": "Vancouver Coastal Properties",
+    "serviceAreas": ["Vancouver", "West Vancouver", "Richmond"],
+    "specialties": ["Waterfront Properties", "Luxury Homes", "New Construction"],
+    "experience": 9,
+    "bio": "Michael Wong brings nearly a decade of expertise to Vancouver's luxury real estate market. With a focus on waterfront properties and high-end residences, Michael has established himself as a trusted advisor for discerning clients. His attention to detail and commitment to excellence have earned him recognition as one of Vancouver's top realtors.",
+    "badges": ["Waterfront Specialist", "New Home Expert", "Client Choice Award 2023"],
+    "associatedListings": [2, 6, 12, 17, 22, 27],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/michaelwong-vancouver",
+      "instagram": "@michaelwong_realty"
+    },
+    "reviews": {
+      "average": 4.8,
+      "count": 89
+    }
+  },
+  {
+    "id": 3,
+    "slug": "marie-dubois-montreal",
+    "name": "Marie Dubois",
+    "headshot": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg",
+    "email": "marie@plateauimmo.ca",
+    "phone": "(514) 555-0789",
+    "languages": ["French", "English"],
+    "brokerage": "Plateau Immobilier",
+    "serviceAreas": ["Montreal", "Westmount", "Outremont"],
+    "specialties": ["Heritage Properties", "Plateau Neighborhoods", "Luxury Homes"],
+    "experience": 15,
+    "bio": "Marie Dubois est une courtière immobilière expérimentée qui se spécialise dans les propriétés patrimoniales et les quartiers prestigieux de Montréal. Avec plus de 15 ans d'expérience, elle offre une expertise approfondie du marché montréalais et un service personnalisé à sa clientèle.",
+    "badges": ["Heritage Property Expert", "Top 1% Agent", "Luxury Market Leader"],
+    "associatedListings": [3, 8, 13, 18, 23, 28],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/marie-dubois-montreal",
+      "instagram": "@mariedubois_immo"
+    },
+    "reviews": {
+      "average": 4.9,
+      "count": 156
+    }
+  },
+  {
+    "id": 4,
+    "slug": "robert-johnson-calgary",
+    "name": "Robert Johnson",
+    "headshot": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg",
+    "email": "robert@calgarycommercial.ca",
+    "phone": "(403) 555-0321",
+    "languages": ["English"],
+    "brokerage": "Calgary Commercial Realty",
+    "serviceAreas": ["Calgary", "Airdrie", "Cochrane"],
+    "specialties": ["Commercial Properties", "Investment Real Estate", "Office Spaces"],
+    "experience": 18,
+    "bio": "Robert Johnson is Calgary's premier commercial real estate specialist with 18 years of experience helping businesses find their perfect space. His deep understanding of Calgary's commercial market and strong relationships with property owners make him the go-to agent for office, retail, and industrial properties.",
+    "badges": ["Commercial Expert", "CCIM Designation", "Business Leader Award"],
+    "associatedListings": [4, 9, 14, 19, 24, 29],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/robert-johnson-calgary",
+      "twitter": "@rjohnson_yyc"
+    },
+    "reviews": {
+      "average": 4.7,
+      "count": 73
+    }
+  },
+  {
+    "id": 5,
+    "slug": "jennifer-smith-ottawa",
+    "name": "Jennifer Smith",
+    "headshot": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg",
+    "email": "jennifer@ottawafamily.ca",
+    "phone": "(613) 555-0654",
+    "languages": ["English", "French"],
+    "brokerage": "Ottawa Family Homes",
+    "serviceAreas": ["Ottawa", "Kanata", "Orleans"],
+    "specialties": ["Family Homes", "First-Time Buyers", "Relocation Services"],
+    "experience": 11,
+    "bio": "Jennifer Smith specializes in helping families find their perfect home in Ottawa's diverse neighborhoods. With 11 years of experience and bilingual service, she provides comprehensive support for first-time buyers, growing families, and those relocating to the National Capital Region.",
+    "badges": ["Family Home Specialist", "First-Time Buyer Expert", "Relocation Specialist"],
+    "associatedListings": [5, 10, 15, 20, 25, 30],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/jennifer-smith-ottawa",
+      "facebook": "Jennifer Smith Ottawa Homes"
+    },
+    "reviews": {
+      "average": 4.8,
+      "count": 94
+    }
+  },
+  {
+    "id": 6,
+    "slug": "david-lee-vancouver-luxury",
+    "name": "David Lee",
+    "headshot": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg",
+    "email": "david@vluxury.ca",
+    "phone": "(604) 555-0987",
+    "languages": ["English", "Korean"],
+    "brokerage": "Vancouver Luxury Estates",
+    "serviceAreas": ["Vancouver", "West Vancouver", "UBC"],
+    "specialties": ["Luxury Estates", "Waterfront Properties", "High-Net-Worth Clients"],
+    "experience": 14,
+    "bio": "David Lee is Vancouver's luxury real estate specialist, working exclusively with high-end properties and discerning clients. His portfolio includes some of Vancouver's most prestigious waterfront estates and luxury condominiums. David's discretion, market expertise, and personalized service have made him the preferred choice for luxury real estate transactions.",
+    "badges": ["Luxury Estate Expert", "Waterfront Specialist", "International Client Specialist"],
+    "associatedListings": [6, 12, 17, 22, 27],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/david-lee-luxury",
+      "instagram": "@davidlee_luxury"
+    },
+    "reviews": {
+      "average": 5.0,
+      "count": 42
+    }
+  },
+  {
+    "id": 7,
+    "slug": "lisa-park-toronto-junction",
+    "name": "Lisa Park",
+    "headshot": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+    "email": "lisa@junctionliving.ca",
+    "phone": "(416) 555-0147",
+    "languages": ["English", "Korean"],
+    "brokerage": "Junction Living Co.",
+    "serviceAreas": ["The Junction", "High Park", "Roncesvilles"],
+    "specialties": ["Urban Living", "Lofts & Condos", "Creative Professionals"],
+    "experience": 7,
+    "bio": "Lisa Park is a dynamic real estate professional who specializes in Toronto's creative neighborhoods. With a focus on lofts, condos, and unique urban properties, she helps artists, professionals, and young families discover the vibrant lifestyle opportunities in Toronto's west end communities.",
+    "badges": ["Urban Living Expert", "Creative District Specialist", "Rising Star Award"],
+    "associatedListings": [7, 21, 26],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/lisa-park-junction",
+      "instagram": "@lisapark_toronto"
+    },
+    "reviews": {
+      "average": 4.9,
+      "count": 67
+    }
+  },
+  {
+    "id": 8,
+    "slug": "pierre-leblanc-montreal-commercial",
+    "name": "Pierre Leblanc",
+    "headshot": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg",
+    "email": "pierre@vieuxport.ca",
+    "phone": "(514) 555-0258",
+    "languages": ["French", "English", "Spanish"],
+    "brokerage": "Vieux-Port Commercial",
+    "serviceAreas": ["Old Montreal", "Downtown", "Griffintown"],
+    "specialties": ["Commercial Retail", "Restaurant Spaces", "Tourism Properties"],
+    "experience": 13,
+    "bio": "Pierre Leblanc se spécialise dans l'immobilier commercial dans les quartiers historiques et touristiques de Montréal. Avec 13 ans d'expérience, il aide les entrepreneurs à trouver l'espace commercial parfait dans des emplacements de choix avec un fort achalandage.",
+    "badges": ["Commercial Retail Expert", "Tourism Specialist", "Historic District Expert"],
+    "associatedListings": [8, 13, 18, 23, 28],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/pierre-leblanc-commercial",
+      "facebook": "Pierre Leblanc Commercial Immobilier"
+    },
+    "reviews": {
+      "average": 4.8,
+      "count": 81
+    }
+  },
+  {
+    "id": 9,
+    "slug": "amanda-taylor-calgary",
+    "name": "Amanda Taylor",
+    "headshot": "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg",
+    "email": "amanda@calgarymodern.ca",
+    "phone": "(403) 555-0369",
+    "languages": ["English"],
+    "brokerage": "Calgary Modern Homes",
+    "serviceAreas": ["Calgary", "Canmore", "Okotoks"],
+    "specialties": ["New Construction", "Modern Design", "Energy Efficient Homes"],
+    "experience": 8,
+    "bio": "Amanda Taylor is Calgary's new construction specialist, working closely with builders and developers to offer the latest in modern home design and energy-efficient living. Her expertise in new builds and contemporary architecture has made her the preferred agent for buyers seeking cutting-edge homes.",
+    "badges": ["New Construction Expert", "Modern Design Specialist", "Green Building Certified"],
+    "associatedListings": [9, 14, 19, 24, 29],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/amanda-taylor-calgary",
+      "instagram": "@amandataylor_homes"
+    },
+    "reviews": {
+      "average": 4.9,
+      "count": 58
+    }
+  },
+  {
+    "id": 10,
+    "slug": "tom-wilson-ottawa-urban",
+    "name": "Tom Wilson",
+    "headshot": "https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg",
+    "email": "tom@ottawaurban.ca",
+    "phone": "(613) 555-0741",
+    "languages": ["English", "French"],
+    "brokerage": "Ottawa Urban Living",
+    "serviceAreas": ["ByWard Market", "Centretown", "Little Italy"],
+    "specialties": ["Urban Condos", "Downtown Living", "Investment Properties"],
+    "experience": 10,
+    "bio": "Tom Wilson specializes in Ottawa's urban core, helping clients discover the benefits of downtown living. With 10 years of experience in condominiums and urban properties, he provides expert guidance on investment opportunities and city lifestyle benefits.",
+    "badges": ["Urban Living Expert", "Investment Specialist", "Downtown Authority"],
+    "associatedListings": [10, 15, 20, 25, 30],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/tom-wilson-ottawa",
+      "twitter": "@tomwilson_ottawa"
+    },
+    "reviews": {
+      "average": 4.7,
+      "count": 76
+    }
+  },
+  {
+    "id": 11,
+    "slug": "rachel-green-toronto-beaches",
+    "name": "Rachel Green",
+    "headshot": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg",
+    "email": "rachel@beachesrealty.ca",
+    "phone": "(416) 555-0852",
+    "languages": ["English"],
+    "brokerage": "Beaches Realty Group",
+    "serviceAreas": ["The Beaches", "Leslieville", "Riverdale"],
+    "specialties": ["Waterfront Properties", "Family Homes", "Beach Communities"],
+    "experience": 13,
+    "bio": "Rachel Green is the go-to agent for Toronto's beautiful lakefront communities. With 13 years of experience in The Beaches and surrounding neighborhoods, she helps families discover the unique lifestyle and community benefits of Toronto's waterfront living.",
+    "badges": ["Waterfront Expert", "Community Specialist", "Family Home Authority"],
+    "associatedListings": [11, 16, 21, 26],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/rachel-green-beaches",
+      "instagram": "@rachelgreen_beaches"
+    },
+    "reviews": {
+      "average": 4.9,
+      "count": 103
+    }
+  },
+  {
+    "id": 12,
+    "slug": "alexander-kim-vancouver-elite",
+    "name": "Alexander Kim",
+    "headshot": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+    "email": "alex@elitevan.ca",
+    "phone": "(604) 555-0963",
+    "languages": ["English", "Korean", "Mandarin"],
+    "brokerage": "Vancouver Elite Properties",
+    "serviceAreas": ["Yaletown", "Coal Harbour", "West End"],
+    "specialties": ["Ultra-Luxury", "Penthouses", "International Clients"],
+    "experience": 16,
+    "bio": "Alexander Kim represents the pinnacle of luxury real estate in Vancouver. With 16 years of experience in ultra-high-end properties, he has facilitated some of Vancouver's most prestigious real estate transactions. His multilingual abilities and international network make him the preferred choice for discerning global clientele.",
+    "badges": ["Ultra-Luxury Specialist", "Penthouse Expert", "International Specialist"],
+    "associatedListings": [12, 22, 27],
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/alexander-kim-elite",
+      "instagram": "@alexanderkim_elite"
+    },
+    "reviews": {
+      "average": 5.0,
+      "count": 29
+    }
+  }
+]
