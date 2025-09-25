@@ -1,0 +1,32 @@
+'use client'
+
+import { SignIn } from '@clerk/nextjs'
+
+export default function LoginPage() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-[#f7f3f0] to-[#f2c9c7]/20">
+      <div className="w-full max-w-md">
+        <div className="text-center mb-8">
+          <h1 className="text-3xl font-bold text-[#2d1b1e] mb-2">Welcome Back</h1>
+          <p className="text-gray-600">Sign in to your ElaRose account</p>
+        </div>
+        <SignIn 
+          appearance={{
+            elements: {
+              formButtonPrimary: 
+                "bg-[#f2c9c7] hover:bg-[#edb3b0] text-[#2d1b1e] font-medium",
+              formFieldInput: 
+                "border-[#f2c9c7]/30 focus:border-[#f2c9c7] focus:ring-[#f2c9c7]/20",
+              footerActionLink: 
+                "text-[#f2c9c7] hover:text-[#edb3b0]",
+              headerTitle: 
+                "text-[#2d1b1e]",
+              headerSubtitle: 
+                "text-gray-600"
+            }
+          }}
+        />
+      </div>
+    </div>
+  )
+}
